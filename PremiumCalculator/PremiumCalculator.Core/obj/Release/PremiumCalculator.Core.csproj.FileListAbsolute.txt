@@ -1,0 +1,4 @@
+D:\Projects\PremiumCalculator\PremiumCalculator.Core\bin\Release\PremiumCalculator.Core.dll
+D:\Projects\PremiumCalculator\PremiumCalculator.Core\bin\Release\PremiumCalculator.Core.pdb
+D:\Projects\PremiumCalculator\PremiumCalculator.Core\obj\Release\PremiumCalculator.Core.dll
+D:\Projects\PremiumCalculator\PremiumCalculator.Core\obj\Release\PremiumCalculator.Core.pdb

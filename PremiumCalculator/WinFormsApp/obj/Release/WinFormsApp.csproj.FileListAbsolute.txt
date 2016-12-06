@@ -1,0 +1,11 @@
+D:\Projects\PremiumCalculator\WinFormsApp\bin\Release\WinFormsApp.exe.config
+D:\Projects\PremiumCalculator\WinFormsApp\bin\Release\WinFormsApp.exe
+D:\Projects\PremiumCalculator\WinFormsApp\bin\Release\WinFormsApp.pdb
+D:\Projects\PremiumCalculator\WinFormsApp\bin\Release\PremiumCalculator.Core.dll
+D:\Projects\PremiumCalculator\WinFormsApp\bin\Release\PremiumCalculator.Core.pdb
+D:\Projects\PremiumCalculator\WinFormsApp\obj\Release\WinFormsApp.csprojResolveAssemblyReference.cache
+D:\Projects\PremiumCalculator\WinFormsApp\obj\Release\WinFormsApp.MainForm.resources
+D:\Projects\PremiumCalculator\WinFormsApp\obj\Release\WinFormsApp.Properties.Resources.resources
+D:\Projects\PremiumCalculator\WinFormsApp\obj\Release\WinFormsApp.csproj.GenerateResource.Cache
+D:\Projects\PremiumCalculator\WinFormsApp\obj\Release\WinFormsApp.exe
+D:\Projects\PremiumCalculator\WinFormsApp\obj\Release\WinFormsApp.pdb

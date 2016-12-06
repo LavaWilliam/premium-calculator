@@ -1,0 +1,7 @@
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\bin\Release\PremiumCalculator.UnitTests.dll
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\bin\Release\PremiumCalculator.UnitTests.pdb
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\bin\Release\PremiumCalculator.Core.dll
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\bin\Release\PremiumCalculator.Core.pdb
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\obj\Release\PremiumCalculator.UnitTests.csprojResolveAssemblyReference.cache
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\obj\Release\PremiumCalculator.UnitTests.dll
+D:\Projects\PremiumCalculator\PremiumCalculator.UnitTests\obj\Release\PremiumCalculator.UnitTests.pdb
